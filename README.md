@@ -1,3 +1,7 @@
 # Lucca
 
 ----
+
+experiencia: 
+
+Aluno unimar
