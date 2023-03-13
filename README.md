@@ -4,4 +4,17 @@
 
 experiencia: 
 
-Aluno unimar
+Idade: 18 years old
+
+---
+
+Instagram: luccalindo
+
+---
+
+Profissão: Estudante Universitário
+
+---
+
+
+
