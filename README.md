@@ -2,9 +2,18 @@
 
 ----
 
-experiencia: 
+Endereço: xxxx - Marilia - SP
+
+----
+
+Idade: 18 anos 
+
+----
+
+Universitário
+
+----
+
+Experiência: 
  
- aluno unimar
-
-
-
+Aluno Unimar
