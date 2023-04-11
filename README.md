@@ -16,4 +16,4 @@ Universitário
 
 Experiência: 
  
-Aluno Unimar
+Aluno 
